@@ -1,8 +1,6 @@
-
-
 const App = () => {
   return (
-    <div>this is ui having zero functionality </div>
+    <div>App</div>
   )
 }
 
